@@ -1,0 +1,19 @@
+---
+object: set
+id: b9259658-67bf-451b-b78b-f5545129e9bd
+code: v12
+mtgo_code: v12
+arena_code: v12
+tcgplayer_id: 368
+name: 'From the Vault: Realms'
+uri: https://api.scryfall.com/sets/b9259658-67bf-451b-b78b-f5545129e9bd
+scryfall_uri: https://scryfall.com/sets/v12
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Av12&unique=prints
+released_at: '2012-08-31'
+set_type: from_the_vault
+card_count: 15
+printed_size: 15
+digital: false
+nonfoil_only: false
+foil_only: true
+icon_svg_uri: https://svgs.scryfall.io/sets/v12.svg?1694404800
